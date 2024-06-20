@@ -3,7 +3,7 @@
 - 🌱 I'm currently studying at university, majoring in oceanology.
 - 💞️ I'm looking for cooperation with people who can point out my mistakes and teach me something.
 - 📫 How to reach me ? By mail buvlad2002@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
