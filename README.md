@@ -10,9 +10,10 @@
 
 ###
 
-<h2 align="center">🌍  Socials</h2>
+<h2 align="center">🌍 Socials</h2>
 
 ###
+
 <div align="center">
   <a href="https://vk.com/id427303100" target="_blank">
     <img src="https://img.shields.io/static/v1?message=vkontakte&logo=vkontakte&label=&color=0000FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="VKontakte logo"  />
@@ -20,8 +21,8 @@
   <a href="https://t.me/pankmomon" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <a href="https://github.com/https://github.com/VladBus" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <a href="https://github.com/VladBus" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" height="25" alt="GitHub logo"  />
   </a> 
 </div>
 
@@ -33,7 +34,7 @@
 
 ###
 
-<h2 align="center">👩‍💻  About me</h2>
+<h2 align="center">👩‍💻  About Me</h2>
 
 ###
 
@@ -41,15 +42,17 @@
 - 👀 I'm interested in learning the programming languages ​​Fortran and Python. and with their help the creation of mathematical models of the ocean-land type.
 - 🌱 Now I am studying at the university with a degree in oceanology, and I work at the Arctic and Antarctic Research Institute, in particular I work on gis systems and space images. I work with software such as: QGIS, ArcGIS, ScanEx Image Processor, etc.
 - 💞️ I'm looking for cooperation with people who can point out my mistakes and teach me something.
-- 📫 How to contact me? By mail buvlad2002@gmail.com or via the links provided above.
+- 📫 How to contact me? By mail *buvlad2002@gmail.com* or via the links provided above.
 
 ###
 
-<h2 align="center">📕 My articles and research</h2>
+<h2 align="center">📕 My Articles and Research</h2>
 
 ###
 
-- [still in development]
++ [still in development]
+  + []
+  + []
 
 ###
 
@@ -63,27 +66,43 @@
 
 ###
 
-<h2 align="center">🛠 Technologies</h2>
+<h2 align="center">🛠 My Skill Set</h2>
 
-###
+####
 
+<br/> 
+
+<h3 align="center">:small_blue_diamond: Frontend :small_blue_diamond:</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=fortran" height="50" alt="fortran logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git logo"  />
-  <img width="12" />
-  <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="50" alt="PowerShell logo"  />
+  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>    
 </div>
 
+<h3 align="center">:small_blue_diamond: Backend :small_blue_diamond:</h3>
+<div align="center">
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=fortran" alt="Fortran" height="50" /></a>  
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+</div>
+
+<h3 align="center">:small_blue_diamond: DevOps :small_blue_diamond:</h3>
+<div align="center">  
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div> 
+
+<h3 align="center">:small_blue_diamond: Languages and Tools :small_blue_diamond:</h3>
+<div align="center">
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="50" /></a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img style="marging: 10px" src="https://skillicons.dev/icons?i=ps" alt="photoshop" height="50" /></a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>
+  <a href="https://qgis.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyUiEVcZZ2VGAUVB5hC7UXEnI3UABNDkF4YA&s" alt="QGIS" height="50" /></a>
+</div>
+
+<br/>  
+
 ###
 
-<h2 align="center">🔥   My statistics</h2>
+<h2 align="center">🔥 My Statistics</h2>
 
 ###
 
