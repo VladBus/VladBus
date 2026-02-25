@@ -1,102 +1,115 @@
 <div align="center">
-  <!-- Dynamic Header Banner (Blue wave style) - Hosted by Vercel -->
-  <img src="https://capsule-render.vercel.app" alt="Uladzislau Busev Header" />
-  
-  <!-- Dynamic Typing SVG displaying roles - Hosted by Herokuapp -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com)](https://git.io)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=200&section=header&text=Uladzislau%20Buseu&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
+
+  <h3><a href="https://github.com/VladBus"><font color="#0077B6">Publishes as: Vladislav Busev | Владислав Бусев</font></a></h3>
+
+  <a href="https://github.com/VladBus">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B6&center=true&vCenter=true&width=435&lines=Oceanologist+%26+Sea+Ice+Researcher;Engineer+at+AARI;MSc+Student+at+RSHU;Python+%26+Fortran+Developer" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <a href="https://orcid.org/0009-0006-5042-6992"><img src="https://img.shields.io/badge/ORCID-0009--0006--5042--6992-A6CE39?logo=orcid&logoColor=white" alt="ORCID"></a>
+    <a href="https://www.researchgate.net/profile/Uladzislau-Buseu"><img src="https://img.shields.io/badge/ResearchGate-Uladzislau_Busev-00CCBB?logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+  </p>
 </div>
 
-# 👨‍💻 About Me / Обо мне
+# 👨‍💻 About Me
 
-**Engineer, 1st Category** | Center for Ice and Hydrometeorological Information (CIHI)  
-**Arctic and Antarctic Research Institute (AARI / ААНИИ)**
+**Engineer (1st Category)** | Center for Ice and Hydrometeorological Information <img width="50" height="25" style="vertical-align:middle" alt="AARI" src="https://github.com/user-attachments/assets/1a6078c1-c2aa-4bd6-89a2-c3a5eb99dc63" /> **Arctic and Antarctic Research Institute (AARI)**
 
-I specialize in **satellite data processing** (operational dispatch and information preparation), GIS analysis, and mathematical modeling of sea ice processes in polar regions.
+I specialize in the mathematical modeling of sea ice processes and the operational processing of satellite data for polar regions. My work focuses on the seasonal dynamics of the Arctic ice cover using numerical methods and GIS analysis.
 
-*   *Специализируюсь на **обработке спутниковых данных**, ГИС-анализе и математическом моделировании ледовых процессов.*
-
-*   🎓 **MSc Student:** 1st year, RSHU (Russian State Hydrometeorological University), "Oceanology".
-*   🔭 **Research Interests:** Seasonal evolution of ice thickness, ocean-land systems, application of Python and Fortran in hydrometeorology.
-*   🗺 **GIS Stack:** QGIS, ArcGIS, ScanEx Image Processor.
+* 🎓 **Education:** 1st-year MSc Student in Oceanology at <img width="22" height="22" style="vertical-align:middle" alt="RSHU" src="https://github.com/user-attachments/assets/997491dc-db47-48d7-a951-d38d32c1f2ca" /> **Russian State Hydrometeorological University (RSHU)**.
+* 🔭 **Research Focus:** Seasonal evolution of ice thickness distribution, thermodynamic modeling of "ice-snow" systems, and automation of hydrometeorological data processing.
+* 🛰 **Expertise:** Satellite monitoring, GIS-based spatial analysis, and scientific programming.
 
 ---
 
-# 📕 Publications & Research / Научные работы
+# 📕 Publications & Research
 
-### 🎓 Bachelor's Thesis / Дипломная работа (ВКР)
-*   **Calculation of the seasonal evolution of the ice thickness distribution function** (2024)
-    *Расчет сезонной эволюции функции распределения толщины льда*
-    *Direction: Applied Oceanology. Supervisor: Ph.D. V. Yu. Chantsev.*
-    📥 [Read PDF (eLib RSHU)](http://elib.rshu.ru)
+### 🎓 Bachelor's Thesis
+* **Calculation of the seasonal evolution of the ice thickness distribution function** (2024)
+    *Supervised by Ph.D. V. Yu. Chantsev. Focus: Applied Oceanology.* [📄 Read on ResearchGate](https://www.researchgate.net/publication/401117146_Calculation_of_the_seasonal_evolution_of_the_sea_ice_thickness_distribution_function)
 
-### 📝 Selected Publications / Избранные публикации
-*   **Marine Research and Education (MARESEDU-2023)** | Proceedings of the XII International Scientific and Practical Conference.
-    *Труды XII Международной научно-практической конференции «Морские исследования и образование (MARESEDU-2023)» Том II (IV)*
-    🔗 [View on eLibrary.ru (RIBL)](https://elibrary.ru)
-*   **Hydrology and Oceanology — 2024** | Collection of conference materials of the RSHU IHO Student Scientific Society.
-    *Гидрология и океанология — 2024 : сборник материалов конференции студенческого научного общества Института гидрологии и океанологии РГГМУ*
-*   **Seas of Russia: From theory to practice of oceanological research** (2023) | Abstracts of the All-Russian scientific conference, Sevastopol.
-    *Моря России: от теории к практике океанологических исследований = Seas of Russia: From theory to practice of oceanological research : тезисы докладов*
+### 📝 Selected Conference Papers
+* **Approximation of the ice thickness distribution in the Arctic Ocean** (2024)
+    *Marine Research and Education (MARESEDU-2023), Vol II, pp. 594-598. Publisher: PoliPRESS.* [🔗 Details](https://www.elibrary.ru/item.asp?id=70654182)
+* **Calculation of the seasonal evolution of the ice thickness distribution function** (2024)
+    *Hydrology and Oceanology - 2024, pp. 164-172. Publisher: Buk LLC.* [🔗 Details](https://www.elibrary.ru/item.asp?id=68537448)
+* **Approximation of the ice thickness distribution in the East Siberian Sea** (2023)
+    *Seas of Russia: From theory to practice of oceanological research, p. 127. Publisher: MHI RAS.* [🔗 Details](https://www.elibrary.ru/item.asp?id=55926859)
 
 ---
 
-# 📜 Certifications / Сертификаты
-
-[![Stepik Certificate](https://img.shields.io)](https://stepik.org)
-
-*   **Programming in Python** (Stepik Academy) — *In the process of in-depth study.*
-
----
-
-# 🛠 Tech Stack / Стек технологий
+# 🛠 Tech Stack
 
 ### 💻 Programming & Modeling
-![Fortran](https://img.shields.io)
-![Python](https://img.shields.io)
-![MATLAB](https://img.shields.io)
-![Bash/PowerShell](https://img.shields.io)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white" alt="Fortran" />
+  <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
 
 ### 🌍 GIS & Satellite Analysis
-![QGIS](https://img.shields.io)
-![ArcGIS](https://img.shields.io)
-![Adobe Photoshop](https://img.shields.io)
+<p align="left">
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" />
+  <img src="https://img.shields.io/badge/ArcGIS-E0302F?style=flat-square&logo=arcgis&logoColor=white" alt="ArcGIS" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+</p>
 
----
-
-# 📊 GitHub Stats / Статистика
-
-<p align="center">
-  <!-- GitHub Stats Card - Hosted by Vercel -->
-  <img src="https://github-readme-stats.vercel.app" height="180" alt="GitHub Stats" />
-  <!-- Top Languages Card - Hosted by Vercel -->
-  <img src="https://github-readme-stats.vercel.app" height="180" alt="Top Languages" />
+### ⚙️ Other & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Environment-Linux%20%26%20Windows-blue?style=flat-square&logo=linux&logoColor=white" alt="OS" />
+  <img src="https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Data-NetCDF%20%7C%20GRIB-blue?style=flat-square" alt="Formats" />
+  <a href="https://www.codewars.com/users/VladBus"><img src="https://www.codewars.com/users/VladBus/badges/micro" alt="Codewars" /></a>
 </p>
 
 ---
 
-# 📧 Contacts / Контакты
+# 📊 GitHub Statistics
 
-<div align="left">
-  <!-- Email Badge -->
-  <a href="mailto:vvbusev@aari.ru">
-    <img src="https://img.shields.io" alt="Work Email" />
-  </a>
-  <!-- Telegram Badge -->
-  <a href="https://t.me">
-    <img src="https://img.shields.io" alt="Telegram" />
-  </a>
-  <!-- VK Badge -->
-  <a href="https://vk.com">
-    <img src="https://img.shields.io" alt="VK" />
-  </a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VladBus&theme=nord&no-bg=true&margin-w=15" alt="Trophies" />
+  <br />
+  
+  <table border="0">
+    <tr>
+      <td>
+        <picture>
+          <source srcset="https://raw.githubusercontent.com/VladBus/VladBus/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+          <img src="https://raw.githubusercontent.com/VladBus/VladBus/main/output/stats_commits.svg" width="400">
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source srcset="https://raw.githubusercontent.com/VladBus/VladBus/main/output/stats_langs.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+          <img src="https://raw.githubusercontent.com/VladBus/VladBus/main/output/stats_langs.svg" width="400">
+        </picture>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <picture>
+          <source srcset="https://raw.githubusercontent.com/VladBus/VladBus/main/output/stats_general.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+          <img src="https://raw.githubusercontent.com/VladBus/VladBus/main/output/stats_general.svg" width="400">
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source srcset="https://raw.githubusercontent.com/VladBus/VladBus/main/output/stats_visitors.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+          <img src="https://raw.githubusercontent.com/VladBus/VladBus/main/output/stats_visitors.svg" width="400">
+        </picture>
+      </td>
+    </tr>
+  </table>
 </div>
 
-*   **Personal Email:** [buvlad2002@gmail.com](mailto:buvlad2002@gmail.com)
-*   **Phone (RU):** +7 (996) 765-88-98 | **Phone (BY):** +375 (33) 325-34-74
-
 ---
 
-<p align="center">
-  <!-- Visitor Badge - Hosted by laobi.icu -->
-  <img src="https://visitor-badge.laobi.icu" alt="Visitors" />
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VladBus.VladBus" alt="Visitors" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=100&section=footer" alt="Footer" />
+</div>
