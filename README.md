@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=200&section=header&text=Uladzislau%20Busev&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=200&section=header&text=Uladzislau%20Buseu&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
   
   <p align="center">
-  <font color="#0077b6">Publishes as: Vladislav Busev | Владислав Бусев</font>
+    <a href="">
+      <font color="#0077b6">Publishes as: Vladislav Busev | Владислав Бусев</font>
+    </a>
   </p>
   
   <a href="https://github.com/VladBus">
